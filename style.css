@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Halvetica Neue, Arial;
+    font-size: 12px;
+}
+
+h1, h2 {
+    color:#0c09d1;
+    font-family: Halvetica Neue, Arial;
+}
+
+h1 {
+    margin-bottom: 20px;
+    font-size: 40px;
+    
+}
+h2 {
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.main-text {
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+.author-text {
+    font-size: 22px;
+}
